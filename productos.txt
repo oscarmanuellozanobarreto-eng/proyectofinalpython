@@ -1,0 +1,5 @@
+1|pantalon mezclilla|200|ropa 
+2|camisa negra|150|ropa
+3|reloj|350|accesorios
+4|botas dior|2800|calzado
+5|gorra DH|2500|accesorios
